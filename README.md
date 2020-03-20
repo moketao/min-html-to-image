@@ -12,7 +12,7 @@ npm i -g lyo
 
 
 ```bash
-    lyo get html-to-image.
+lyo get html-to-image.
 ```
 
 build 目录下有已经打包好的 html-to-image.min.js 文件
